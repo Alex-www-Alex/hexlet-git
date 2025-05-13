@@ -1,2 +1,4 @@
-new text
-test
+git is awesome!
+Commit
+new line
+add new content
